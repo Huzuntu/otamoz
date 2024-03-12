@@ -1,0 +1,1 @@
+ /Users/umuttolek/Desktop/ZOMATO/untitled\ folder/otamozZz/.dart_tool/flutter_build/0e1be536858c18f1e5849bde2222c61e/native_assets.yaml: 

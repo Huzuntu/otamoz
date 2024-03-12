@@ -1,0 +1,9 @@
+export 'restaurantPageBar.dart';
+export 'restaurantPageScrollButtons.dart';
+export 'restaurantPagePhotos.dart';
+export 'restaurantPageMenu.dart';
+export 'restaurantPageReviews.dart';
+export 'restaurantPageAbout.dart';
+export 'restaurantPageRecommendations.dart';
+export 'restaurantPageFacilities.dart';
+export 'restaurantPageError.dart';
